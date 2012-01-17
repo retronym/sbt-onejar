@@ -1,5 +1,7 @@
 # sbt-onejar: Package your project using [One-JAR™](http://one-jar.sourceforge.net)*
 
+*Mirror. Official repo is now https://github.com/sbt/sbt-onejar*
+
 sbt-onejar is a [simple-build-tool](http://github.com/harrah/xsbt/wiki)
 plugin for building a single executable JAR containing all your code and dependencies
 as nested JARs.
